@@ -150,7 +150,7 @@ a{
 }
 
 .background{
-	background: rgba(227, 209, 183, 0.32) url(./Img/bg3-2.PNG);
+	background: rgba(227, 209, 183, 0.32) url(./Img/bg3-2.png);
 	background-blend-mode: hue;
 	background-repeat: no-repeat;
 	background-size: cover;
